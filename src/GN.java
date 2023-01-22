@@ -4,5 +4,6 @@ public class GN {
 		System.out.println("Alumno: Ramon Genaro Miranda");
 		System.out.println("Modificacion desde Master - Cambiado");
 		System.out.println("Modificacion desde Develop");
+		System.out.println("Modificacion desde Github");
 	}
 }
